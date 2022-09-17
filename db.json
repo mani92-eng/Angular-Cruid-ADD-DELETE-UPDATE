@@ -1,0 +1,53 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "Rolex",
+      "lastName": "test",
+      "email": "test@gmail.com",
+      "mobile": "9618359130",
+      "salary": "3000"
+    },
+    {
+      "id": 2,
+      "firstName": "Demo",
+      "lastName": "DUM",
+      "email": "Demo@123.com",
+      "mobile": "1234567890",
+      "salary": "230000"
+    }
+  ],
+  "signupUsers": [
+    {
+      "fullname": "MANIKANTA",
+      "mobile": "96183591",
+      "email": "",
+      "password": "",
+      "id": 1
+    },
+    {
+      "fullname": "manikanta",
+      "mobile": "123456789",
+      "email": "pulikonda@123.com",
+      "password": "123456",
+      "id": 2
+    },
+    {
+      "fullname": "1",
+      "mobile": "1",
+      "email": "1@123.com",
+      "password": "1",
+      "id": 3
+    },
+    {
+      "fullname": "1",
+      "mobile": "1",
+      "email": "1",
+      "password": "1",
+      "id": 4
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
