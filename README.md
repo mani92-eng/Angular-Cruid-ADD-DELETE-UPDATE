@@ -1,5 +1,20 @@
 # C1
 
+run josn server====>
+
+Install JSON Server
+
+npm install -g json-server
+
+json-server --watch db.json
+
+Now if you go to http://localhost:3000/posts/1, you'll get
+
+
+
+
+
+
 This project was generated with [Angular CLI](https://github.com/mani92-eng/c1.git) version 14.1.0.
 
 ## Development server
